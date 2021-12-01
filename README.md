@@ -1,7 +1,7 @@
 ### Hi there 👋  I'm Htoo.
 
 
-- 🔭  &nbsp I’m currently a sophomore at Harvey Mudd College.
+- 🔭  &nbsp; I’m currently a sophomore at Harvey Mudd College.
 - 🌱  Majoring in Computer Science.
 
 - 🤔  I’m trying to gain more experience in front-end development and UI design.
