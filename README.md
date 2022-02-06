@@ -8,5 +8,5 @@
 
 - 📫  &nbsp; How to reach me: [Email](mailto:2myat9@gmail.com), [LinkedIn](https://www.linkedin.com/in/htoomyat/), [Discord](https://discordapp.com/users/409335295734054912/)
 - 😄  &nbsp; Pronouns: he/ him
-- ⚡  &nbsp; Fun fact: I love chess, piano, anime, skateboards, martial arts and video games.
+- ⚡  &nbsp; Fun fact: I love chess, piano, manga, skateboards, martial arts and video games.
 
