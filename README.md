@@ -6,10 +6,10 @@
  <p>&nbsp;</p>
 
 - 👨🏻‍💻   &nbsp;&nbsp; I’m a Full-Stack Software Engineer.
-- 🪐  &nbsp; Proficient in frameworks built on React, Node, and Python.
+- 🪐  &nbsp; Proficient in frameworks built on React, Node, CSS and Python.
   <p>&nbsp;</p>
 
-- 📫  &nbsp; How to reach me: [Email](mailto:2myat9@gmail.com), [LinkedIn](https://www.linkedin.com/in/htoomyat/), [Discord](https://discordapp.com/users/409335295734054912/)
-
+- 📫  &nbsp; How to reach me: [Email](mailto:2myat9@gmail.com), [LinkedIn](https://www.linkedin.com/in/htoomyat/)
+- 🌵  &nbsp; Check out [my personal website](https://htoo.me/).
 - ⚡  &nbsp; Fun fact: I'm an enthusiast in photography, mixology, and cars.
 
