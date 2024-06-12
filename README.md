@@ -1,11 +1,11 @@
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi there &nbsp; 👋  &nbsp; I'm [Htoo](https://www.htoo.me/).
 
 
-- 🔭  &nbsp; I’m currently a senior at Harvey Mudd College.
-- 🌱  &nbsp; Majoring in Computer Science.
+- 🔭  &nbsp; I studied Computer Science at Harvey Mudd College.
+  
  <p>&nbsp;</p>
 
-- 👨🏻‍💻   &nbsp;&nbsp; I’m a Full-Stack Software Engineer.
+- 👨🏻‍💻   &nbsp;&nbsp; I’m a Frontend Software Engineer @ Webflow.
 - 🪐  &nbsp; Proficient in frameworks built on React, Node, CSS and Python.
   <p>&nbsp;</p>
 
